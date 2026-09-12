@@ -1,0 +1,2 @@
+# Dermatological-Screening-Metadata-Analysis-using-Scikit-Learn
+Evaluating Scikit-Learn algorithms (Random Forest, Gradient Boosting) on the HAM10000 dataset to analyze patient metadata for primary skin lesion screening in rural areas. Features Python data pipelines with ColumnTransformer to prevent data leakage and outputs Feature Importance to uncover clinical risks based on age and localization.
